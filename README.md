@@ -1,2 +1,1 @@
-# clock
-Live digital clock in hh:mm:ss
+bash clock.sh
